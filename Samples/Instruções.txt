@@ -1,0 +1,7 @@
+O arquivo 1CDO é a proteína conhecida que será utilizada como input de .pbd.
+
+O alinhamento Gene1.aa é o alinhamento da sequência da proteína conhecida (1CDO) com a sequência desconhecida.
+
+O arquivo model.py é um exemplo de script em phyton que o modeller utiliza como entrada, com os dados providos, é a saída esperada.
+
+O arquivo align.ali é a saída esperada para os dados de entrada providos.
